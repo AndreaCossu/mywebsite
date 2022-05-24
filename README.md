@@ -17,10 +17,10 @@ I am one of the maintainers of [Avalanche](https://avalanche.continualai.org/), 
 
 ### Most recent news
 
+* _31/05/2021:_\
+  __I will deliver a talk "Continual Learning: from zero to hero" at the University of Verona. The talk will include an introduction to Continual Learning and a hands-on session with Avalanche. [See you there](https://www.eventbrite.com/e/biglietti-continual-learning-from-zero-to-hero-344069389807)!
 * _2022-02-01 / 2022-04-30:_\
   I joined [KU Leuven](https://www.kuleuven.be/kuleuven/) as a visiting PhD student. I worked for three monts at [ESAT department](https://www.esat.kuleuven.be/), in the PSI group under the supervision of Prof. Tinne Tuytelaars.
-* _2022-01-12:_\
-  The paper "Catastrophic Forgetting in Deep Graph Networks: A Graph Classification Benchmark" (joint work with Antonio Carta, Federico Errica and Davide Bacciu), [previously published](https://andreacossu.github.io/post/www-workshop-graph-forgetting/) as a workshop paper at WWW, has been accepted to [Frontiers in Artificial Intelligence - Machine Learning and Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence) journal!
 * _2021-11-19:_\
   The [first course on Continual Learning](https://course.continualai.org/) is about to start! The course is hosted by University of Pisa and ContinualAI and Vincenzo Lomonaco will be the teacher. I will help throughout the course as teaching assistant.\
   More than 400 students already signed up, this is huge :)
