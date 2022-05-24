@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Ciao!](README.md)
+* [Publications](publications.md)
+* [Teaching and Academic Service](other-activities.md)
+* [Resources](resources.md)
+* [Contact](contact.md)
+
+## Links
+
+* [Google Scholar](https://scholar.google.com/citations?user=j7MRTokAAAAJ\&hl=it)
+* [Twitter](https://twitter.com/Cossu94)
+* [GitHub](https://github.com/AndreaCossu)
+* [LinkedIn](https://www.linkedin.com/in/andrea-cossu/)
+* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219547269)
+* [ContinualAI](https://www.continualai.org/)
