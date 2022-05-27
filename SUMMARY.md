@@ -3,7 +3,7 @@
 * [Ciao!](README.md)
 * [Publications](publications.md)
 * [Teaching and Academic Service](other-activities.md)
-* [Resources](resources.md)
+* [Talks](talks.md)
 * [Contact](contact.md)
 
 ## Links
