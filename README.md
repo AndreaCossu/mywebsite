@@ -11,6 +11,8 @@ I am a member of the [**Pervasive AI Lab**](http://pai.di.unipi.it/) (University
 I am a Board Member and Treasurer of [**ContinualAI**](https://www.continualai.org/), a non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts.\
 I am one of the maintainers of [Avalanche](https://avalanche.continualai.org/), an End-to-End library for Continual Learning based on [PyTorch](https://pytorch.org/).
 
+I received my Master's Degree in Computer Science - Artificial Intelligence Curriculum from the University of Pisa.
+
 ### CV
 
 {% file src=".gitbook/assets/Curriculum_full.pdf" %}
