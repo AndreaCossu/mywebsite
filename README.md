@@ -4,7 +4,7 @@
 
 I am a **PhD Student** in Data Science at [Scuola Normale Superiore](https://www.sns.it/it) and at the [Computer Science Department](https://www.sns.it) of [University of Pisa,](https://www.unipi.it/) under the supervision of Prof. [Davide Bacciu](http://pages.di.unipi.it/bacciu/), Dr.[ Vincenzo Lomonaco](https://www.vincenzolomonaco.com/) and Prof. [Anna Monreale](http://pages.di.unipi.it/amonreale/).\
 \
-My research focuses on **Continual Learning**, with applications to Recurrent Neural Networks models and sequential data processing.
+My research focuses on **Continual Learning.** I am interested in all kinds of learning environments where data changes over time. I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
 
 I am a member of the [**Pervasive AI Lab**](http://pai.di.unipi.it/) (University of Pisa and CNR) and of the [Computational Intelligence and Machine Learning (CIML)](https://ciml.di.unipi.it/) group at (University of Pisa).\
 \
