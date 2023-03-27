@@ -20,14 +20,13 @@ I received my Master's Degree in Computer Science (Artificial Intelligence Curri
 
 ### Recent news
 
+* 2023-03-20: I joined the Deep Continual Learning Seminar at Dagstuhl, Germany. A wonderful 5-days gathering of the most important Continual Learning researchers from all around the world.
 * 2022-12-12:\
   I will start my 3-months research internship at Google Brain in Mountain View, California!&#x20;
 * 2022-09-21:\
   I was invited as a speaker to the DICE 2022 conference on theoretical physics! Why? To talk about Artificial Intelligence and Continual Learning, of course! The evening was open to the public and to all the people in the amazing Castiglioncello (Italy).
 * _2022-05-31:_\
   __I delivered a talk "Continual Learning: from zero to hero" at the University of Verona. The talk will include an introduction to Continual Learning and a hands-on session with Avalanche. [See you there](https://www.eventbrite.com/e/biglietti-continual-learning-from-zero-to-hero-344069389807)!
-* _2022-02-01 / 2022-04-30:_\
-  I joined [KU Leuven](https://www.kuleuven.be/kuleuven/) as a visiting PhD student. I worked for three monts at [ESAT department](https://www.esat.kuleuven.be/), in the PSI group under the supervision of Prof. Tinne Tuytelaars.
 
 <details>
 
