@@ -20,7 +20,8 @@ I received my Master's Degree in Computer Science (Artificial Intelligence Curri
 
 ### Recent news
 
-* 2023-03-20: I joined the Deep Continual Learning Seminar at Dagstuhl, Germany. A wonderful 5-days gathering of the most important Continual Learning researchers from all around the world.
+* 2023-03-20: \
+  I joined the Deep Continual Learning Seminar at Dagstuhl, Germany. A wonderful 5-days gathering of the most important Continual Learning researchers from all around the world.
 * 2022-12-12:\
   I will start my 3-months research internship at Google Brain in Mountain View, California!&#x20;
 * 2022-09-21:\
