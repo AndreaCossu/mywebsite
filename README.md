@@ -32,7 +32,7 @@ I received my Master's Degree in Computer Science (Artificial Intelligence Curri
 <summary>Older news</summary>
 
 * _2022-05-31:_\
-  __I delivered a talk "Continual Learning: from zero to hero" at the University of Verona. The talk will include an introduction to Continual Learning and a hands-on session with Avalanche. [See you there](https://www.eventbrite.com/e/biglietti-continual-learning-from-zero-to-hero-344069389807)!
+  I delivered a talk "Continual Learning: from zero to hero" at the University of Verona. The talk will include an introduction to Continual Learning and a hands-on session with Avalanche. [See you there](https://www.eventbrite.com/e/biglietti-continual-learning-from-zero-to-hero-344069389807)!
 * _2022-02-01 / 2022-04-30:_\
   I joined [KU Leuven](https://www.kuleuven.be/kuleuven/) as a visiting PhD student. I worked for three monts at [ESAT department](https://www.esat.kuleuven.be/), in the PSI group under the supervision of Prof. Tinne Tuytelaars.
 * 2021-11-19:\

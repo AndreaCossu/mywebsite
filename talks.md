@@ -2,7 +2,13 @@
 
 ### Selected Talks
 
-* 31 May 2022: **Continual Learning: from zero to hero**, **** University of Verona, Computer Science Department. \
+* March, 2023: **Beyond Forgetting with Continual Pre-Training,** Deep Continual Learning Dagstuhl Seminar, Dagstuhl, Germany.
+
+{% file src=".gitbook/assets/Continual Pre-Training Dagstuhl.pdf" %}
+Slides Talk
+{% endfile %}
+
+* 31 May 2022: **Continual Learning: from zero to hero**, University of Verona, Computer Science Department. \
   [Colab Notebook on catastrophic forgetting with one neuron](https://colab.research.google.com/drive/1SJf2sr22LvTYDWoV7MUniOlz99X0VM2n?usp=sharing)\
   [Colab Notebook on Continual Learning with Avalanche](https://colab.research.google.com/drive/1wyqRSHQiFHRlc4PkWQzk9bX0-N5qy6hj?usp=sharing)
 

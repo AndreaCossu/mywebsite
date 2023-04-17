@@ -1,14 +1,13 @@
 # Table of contents
 
 * [Ciao!](README.md)
-* [Publications](publications.md)
+* [Publications (Google Scholar)](https://scholar.google.com/citations?user=j7MRTokAAAAJ\&hl=it)
 * [Teaching and Academic Service](other-activities.md)
 * [Talks](talks.md)
 * [Contact](contact.md)
 
 ## Links
 
-* [Google Scholar](https://scholar.google.com/citations?user=j7MRTokAAAAJ\&hl=it)
 * [Twitter](https://twitter.com/Cossu94)
 * [GitHub](https://github.com/AndreaCossu)
 * [LinkedIn](https://www.linkedin.com/in/andrea-cossu/)

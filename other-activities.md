@@ -2,6 +2,7 @@
 
 ### Teaching
 
+* Lab Teacher: _Deep Learning_, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2023
 * Lab Teacher: _Deep Learning_, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2022
 * Teaching assistant: [_Continual Learning: On Machines that can Learn Continually_](https://course.continualai.org/), University of Pisa, 2021
 * Teacher: _Evaluation of Continual Learning algorithms_ nanolecture, [Neuromatch Academy](https://academy.neuromatch.io/) school of Deep Learning, 2021
