@@ -20,6 +20,8 @@ I received my Master's Degree in Computer Science (Artificial Intelligence Curri
 
 ### Recent news
 
+* 2023-05-01:\
+  I joined the University of Pisa as a Research Fellow, working on emergent awareness from minimal collectives within the [EMERGE](https://eic-emerge.eu/) project (EU EIC Pathfinder program).
 * 2023-03-20: \
   I joined the Deep Continual Learning Seminar at Dagstuhl, Germany. A wonderful 5-days gathering of the most important Continual Learning researchers from all around the world.
 * 2022-12-12:\
