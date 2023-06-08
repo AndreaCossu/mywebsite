@@ -13,6 +13,7 @@
 
 ### Conferences <a href="#conferences" id="conferences"></a>
 
+* **General Co-Chair:** [**ContinualAI Unconference 2023**](https://unconf.continualai.org/)
 * **PC member**: [CoLLAs 2022](https://lifelong-ml.cc/)
 * **PC member**: [CAIP 2021](https://aiforpeople.org/conference/cfp.php)
 

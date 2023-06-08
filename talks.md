@@ -2,6 +2,7 @@
 
 ### Selected Talks
 
+* May, 2023: **Continual Pre-Training Mitigates Forgetting in Language and Vision,** [EfficientML Seminar](https://sites.google.com/view/efficientml/home).
 * March, 2023: **Beyond Forgetting with Continual Pre-Training,** Deep Continual Learning Dagstuhl Seminar, Dagstuhl, Germany.
 
 {% file src=".gitbook/assets/Continual Pre-Training Dagstuhl.pdf" %}
