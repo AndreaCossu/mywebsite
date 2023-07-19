@@ -2,7 +2,7 @@
 
 ![Well, that's me!](.gitbook/assets/me-pontediavolo\_square\_small.jpg)
 
-I am a **post-doc Student** at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english). \
+I am a **post-doc researcher** at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english). \
 I received my Ph.D. in Data Science from [Scuola Normale Superiore](https://www.sns.it/it) and University of Pisa. \
 \
 My research focuses on **Continual Learning.** I am interested in all kinds of learning environments where data changes over time. I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
