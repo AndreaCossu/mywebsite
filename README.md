@@ -2,7 +2,8 @@
 
 ![Well, that's me!](.gitbook/assets/me-pontediavolo\_square\_small.jpg)
 
-I am a **PhD Student** in Data Science at [Scuola Normale Superiore](https://www.sns.it/it) and at the [Computer Science Department](https://www.sns.it) of [University of Pisa,](https://www.unipi.it/) under the supervision of Prof. [Davide Bacciu](http://pages.di.unipi.it/bacciu/), Dr.[ Vincenzo Lomonaco](https://www.vincenzolomonaco.com/) and Prof. [Anna Monreale](http://pages.di.unipi.it/amonreale/).\
+I am a **post-doc Student** at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english). \
+I received my Ph.D. in Data Science from [Scuola Normale Superiore](https://www.sns.it/it) and University of Pisa. \
 \
 My research focuses on **Continual Learning.** I am interested in all kinds of learning environments where data changes over time. I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
 
@@ -20,19 +21,21 @@ I received my Master's Degree in Computer Science (Artificial Intelligence Curri
 
 ### Recent news
 
+* 2023-07-17:\
+  I received my Ph.D. in Data Science!&#x20;
 * 2023-05-01:\
   I joined the University of Pisa as a Research Fellow, working on emergent awareness from minimal collectives within the [EMERGE](https://eic-emerge.eu/) project (EU EIC Pathfinder program).
 * 2023-03-20: \
   I joined the Deep Continual Learning Seminar at Dagstuhl, Germany. A wonderful 5-days gathering of the most important Continual Learning researchers from all around the world.
 * 2022-12-12:\
   I will start my 3-months research internship at Google Brain in Mountain View, California!&#x20;
-* 2022-09-21:\
-  I was invited as a speaker to the DICE 2022 conference on theoretical physics! Why? To talk about Artificial Intelligence and Continual Learning, of course! The evening was open to the public and to all the people in the amazing Castiglioncello (Italy).
 
 <details>
 
 <summary>Older news</summary>
 
+* 2022-09-21:\
+  I was invited as a speaker to the DICE 2022 conference on theoretical physics! Why? To talk about Artificial Intelligence and Continual Learning, of course! The evening was open to the public and to all the people in the amazing Castiglioncello (Italy).
 * _2022-05-31:_\
   I delivered a talk "Continual Learning: from zero to hero" at the University of Verona. The talk will include an introduction to Continual Learning and a hands-on session with Avalanche. [See you there](https://www.eventbrite.com/e/biglietti-continual-learning-from-zero-to-hero-344069389807)!
 * _2022-02-01 / 2022-04-30:_\
