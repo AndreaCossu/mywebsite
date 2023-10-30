@@ -18,10 +18,14 @@ I was visiting researcher at KU Leuven (Belgium) and research intern at Google B
 
 ### CV
 
-{% file src=".gitbook/assets/Curriculum_full.pdf" %}
+{% file src=".gitbook/assets/Curriculum_full (2).pdf" %}
+CV
+{% endfile %}
 
 ### Recent news
 
+* 2023-10-19\
+  The [1st ContinualAI Unconference](https://unconf.continualai.org/) was a blast! 24 hours nonstop of great content and amazing discussion. Thanks to everyone in the community for staying with us for so long. An extra thanks to all the people who volunteered to help with the organization!
 * 2023-09-13:\
   My Ph.D. thesis is now publicly available, you can download it [here](https://hdl.handle.net/11384/133982).
 * 2023-07-17:\
