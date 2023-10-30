@@ -32,13 +32,13 @@ CV
   I received my Ph.D. in Data Science!&#x20;
 * 2023-05-01:\
   I joined the University of Pisa as a Research Fellow, working on emergent awareness from minimal collectives within the [EMERGE](https://eic-emerge.eu/) project (EU EIC Pathfinder program).
-* 2023-03-20: \
-  I joined the Deep Continual Learning Seminar at Dagstuhl, Germany. A wonderful 5-days gathering of the most important Continual Learning researchers from all around the world.
 
 <details>
 
 <summary>Older news</summary>
 
+* 2023-03-20: \
+  I joined the Deep Continual Learning Seminar at Dagstuhl, Germany. A wonderful 5-days gathering of the most important Continual Learning researchers from all around the world.
 * 2022-12-12:\
   I will start my 3-months research internship at Google Brain in Mountain View, California!&#x20;
 * 2022-09-21:\
