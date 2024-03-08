@@ -2,6 +2,12 @@
 
 ### Selected Talks
 
+* March, 2024: **Continual Learning: Machine Learning on non-stationary data streams,** University of Plymouth
+
+{% file src=".gitbook/assets/cl-plymouth.pdf" %}
+Slides Talk
+{% endfile %}
+
 * May, 2023: **Continual Pre-Training Mitigates Forgetting in Language and Vision,** [EfficientML Seminar](https://sites.google.com/view/efficientml/home).
 * March, 2023: **Beyond Forgetting with Continual Pre-Training,** Deep Continual Learning Dagstuhl Seminar, Dagstuhl, Germany.
 
