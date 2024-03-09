@@ -24,6 +24,8 @@ CV
 
 ### Recent news
 
+* 2024-03-08\
+  I gave a virtual lecture at the University of Plymouth on Continual Learning. Slides are available in the [Talks section](talks.md).
 * 2023-10-19\
   The [1st ContinualAI Unconference](https://unconf.continualai.org/) was a blast! 24 hours nonstop of great content and amazing discussion. Thanks to everyone in the community for staying with us for so long. An extra thanks to all the people who volunteered to help with the organization!
 * 2023-09-13:\
