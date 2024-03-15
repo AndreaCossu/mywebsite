@@ -4,7 +4,7 @@
 
 I am a **post-doc researcher** at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english).&#x20;
 
-My research focuses on **Continual Learning.** I am interested in all kinds of learning environments where data changes over time. I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
+My research focuses on **Continual Learning** and Deep Learning**.** I am interested in all kinds of learning environments where data changes over time. I I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
 
 I am a member of the [**Pervasive AI Lab**](http://pai.di.unipi.it/) (University of Pisa and CNR) and of the [Computational Intelligence and Machine Learning (CIML)](https://ciml.di.unipi.it/) group at (University of Pisa).\
 \
@@ -18,7 +18,7 @@ I was visiting researcher at KU Leuven (Belgium) and research intern at Google B
 
 ### CV
 
-{% file src=".gitbook/assets/Curriculum_full (2).pdf" %}
+{% file src=".gitbook/assets/Curriculum_full (3).pdf" %}
 CV
 {% endfile %}
 
