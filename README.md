@@ -2,7 +2,7 @@
 
 ![Well, that's me!](.gitbook/assets/me-pontediavolo\_square\_small.jpg)
 
-I am a **post-doc researcher** at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english).&#x20;
+I am an assistant professor (aka RTD-A in Italy) at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english).&#x20;
 
 My research focuses on **Continual Learning** and Deep Learning**.** I am interested in all kinds of learning environments where data changes over time. I I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
 
@@ -14,6 +14,7 @@ I am one of the maintainers of [Avalanche](https://avalanche.continualai.org/), 
 I received my Ph.D. in Data Science from [Scuola Normale Superiore](https://www.sns.it/it) and University of Pisa. My Ph.D. thesis titled _"Towards Real-World Data Streams for Deep Continual Learning"_ is publicly available [here](https://hdl.handle.net/11384/133982).\
 I received my Master's Degree in Computer Science (Artificial Intelligence Curriculum) from the University of Pisa.
 
+I spent one year as a postdoctoral researcher at University of Pisa.\
 I was visiting researcher at KU Leuven (Belgium) and research intern at Google Brain, Mountain View (California).&#x20;
 
 ### CV
