@@ -1,5 +1,11 @@
 # Teaching
 
+* PhD course "Collective Machine Intelligence: Beyond an Agent-Centric View of AI", Computer Science Department, University of Pisa, 2024. Artificial Life module (6 hours).
+
+{% file src=".gitbook/assets/alife.pdf" %}
+Slides (PDF) Collective Machine Intelligence course
+{% endfile %}
+
 * Lab Teacher: _Deep Learning_, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2023
 * Lab Teacher: _Deep Learning_, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2022
 * Teaching assistant: [_Continual Learning: On Machines that can Learn Continually_](https://course.continualai.org/), University of Pisa, 2021
