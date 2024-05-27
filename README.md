@@ -8,7 +8,7 @@ My research focuses on **Continual Learning** and Deep Learning**.** I am intere
 
 I am a member of the [**Pervasive AI Lab**](http://pai.di.unipi.it/) (University of Pisa and CNR) and of the [Computational Intelligence and Machine Learning (CIML)](https://ciml.di.unipi.it/) group at (University of Pisa).\
 \
-I am a Board Member and Treasurer of [**ContinualAI**](https://www.continualai.org/), a non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts.\
+I was a Board Member and Treasurer of [**ContinualAI**](https://www.continualai.org/), a non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts.\
 I am one of the maintainers of [Avalanche](https://avalanche.continualai.org/), an End-to-End library for Continual Learning based on [PyTorch](https://pytorch.org/).
 
 I received my Ph.D. in Data Science from [Scuola Normale Superiore](https://www.sns.it/it) and University of Pisa. My Ph.D. thesis titled _"Towards Real-World Data Streams for Deep Continual Learning"_ is publicly available [here](https://hdl.handle.net/11384/133982).\
