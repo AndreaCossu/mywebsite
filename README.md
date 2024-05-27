@@ -25,21 +25,25 @@ CV
 
 ### Recent news
 
+* 2024-05-27\
+  Check out [the slides](other-activities.md) of my 3-lecture series on **Artificial Life** in the Collective Machine Intelligence PhD course at University of Pisa.&#x20;
+* 2024-05-25\
+  I had the opportunity to talk about the EU project EMERGE at the Robotics Festival in Pisa.
 * 2024-03-08\
   I gave a virtual lecture at the University of Plymouth on Continual Learning. Slides are available in the [Talks section](talks.md).
 * 2023-10-19\
   The [1st ContinualAI Unconference](https://unconf.continualai.org/) was a blast! 24 hours nonstop of great content and amazing discussion. Thanks to everyone in the community for staying with us for so long. An extra thanks to all the people who volunteered to help with the organization!
+
+<details>
+
+<summary>Older news</summary>
+
 * 2023-09-13:\
   My Ph.D. thesis is now publicly available, you can download it [here](https://hdl.handle.net/11384/133982).
 * 2023-07-17:\
   I received my Ph.D. in Data Science!&#x20;
 * 2023-05-01:\
   I joined the University of Pisa as a Research Fellow, working on emergent awareness from minimal collectives within the [EMERGE](https://eic-emerge.eu/) project (EU EIC Pathfinder program).
-
-<details>
-
-<summary>Older news</summary>
-
 * 2023-03-20: \
   I joined the Deep Continual Learning Seminar at Dagstuhl, Germany. A wonderful 5-days gathering of the most important Continual Learning researchers from all around the world.
 * 2022-12-12:\
