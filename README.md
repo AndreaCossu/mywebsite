@@ -19,14 +19,14 @@ I was visiting researcher at KU Leuven (Belgium) and research intern at Google B
 
 ### CV
 
-{% file src=".gitbook/assets/Curriculum_full (3).pdf" %}
+{% file src=".gitbook/assets/Curriculum_full (4).pdf" %}
 CV
 {% endfile %}
 
 ### Recent news
 
 * 2024-05-27\
-  Check out [the slides](other-activities.md) of my 3-lecture series on **Artificial Life** in the Collective Machine Intelligence PhD course at University of Pisa.&#x20;
+  Check out [the slides](teaching.md) of my 3-lecture series on **Artificial Life** in the Collective Machine Intelligence PhD course at University of Pisa.&#x20;
 * 2024-05-25\
   I had the opportunity to talk about the EU project EMERGE at the Robotics Festival in Pisa.
 * 2024-03-08\

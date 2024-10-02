@@ -1,8 +1,9 @@
 # Teaching
 
+* Smart Applications 2024/2025, Master Degree in Computer Science, University of Pisa (9 CFU with Prof. Mazzei)
 * PhD course "Collective Machine Intelligence: Beyond an Agent-Centric View of AI", Computer Science Department, University of Pisa, 2024. Artificial Life module (6 hours).
 
-{% file src=".gitbook/assets/alife.pdf" %}
+{% file src=".gitbook/assets/alife (1).pdf" %}
 Slides (PDF) Collective Machine Intelligence course
 {% endfile %}
 
