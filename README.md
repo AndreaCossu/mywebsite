@@ -1,10 +1,10 @@
 # Ciao!
 
-![Well, that's me!](.gitbook/assets/me-pontediavolo\_square\_small.jpg)
+![Well, that's me!](.gitbook/assets/me-pontediavolo_square_small.jpg)
 
 I am an assistant professor (aka RTD-A in Italy) at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english).&#x20;
 
-My research focuses on **Continual Learning** and Deep Learning**.** I am interested in all kinds of learning environments where data changes over time. I I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
+My research focuses on **Continual Learning** and Deep Learnin&#x67;**.** I am interested in all kinds of learning environments where data changes over time. I I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
 
 I am a member of the [**Pervasive AI Lab**](http://pai.di.unipi.it/) (University of Pisa and CNR) and of the [Computational Intelligence and Machine Learning (CIML)](https://ciml.di.unipi.it/) group at (University of Pisa).\
 \
@@ -16,6 +16,8 @@ I received my Master's Degree in Computer Science (Artificial Intelligence Curri
 
 I spent one year as a postdoctoral researcher at University of Pisa.\
 I was visiting researcher at KU Leuven (Belgium) and research intern at Google Brain, Mountain View (California).&#x20;
+
+I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&D activities.
 
 ### CV
 
