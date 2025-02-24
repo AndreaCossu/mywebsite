@@ -27,6 +27,17 @@ CV
 
 ### Recent news
 
+* 2025-04-23/25\
+  I am co-organizing the special session "[Streaming Continual Learning: fast adaptation and knowledge consolidation in dynamic environments](https://www.esann.org/special-sessions#session1)" at ESANN 2025 in Bruges.
+* 2025-03-24/27\
+  I am co-organizing the [spring school "Learning over Time"](https://sites.google.com/unisi.it/lot-spring-school/) together with colleagues from University of Siena. The school is held at Certosa di Pontignano.
+* 2025-02-12/14\
+  I presented a poster at the 11th International Conference on Guided Self-Organization (GSO-2025) in Tübingen. More ALife coming!
+
+<details>
+
+<summary>Older news</summary>
+
 * 2024-05-27\
   Check out [the slides](teaching.md) of my 3-lecture series on **Artificial Life** in the Collective Machine Intelligence PhD course at University of Pisa.&#x20;
 * 2024-05-25\
@@ -35,11 +46,6 @@ CV
   I gave a virtual lecture at the University of Plymouth on Continual Learning. Slides are available in the [Talks section](talks.md).
 * 2023-10-19\
   The [1st ContinualAI Unconference](https://unconf.continualai.org/) was a blast! 24 hours nonstop of great content and amazing discussion. Thanks to everyone in the community for staying with us for so long. An extra thanks to all the people who volunteered to help with the organization!
-
-<details>
-
-<summary>Older news</summary>
-
 * 2023-09-13:\
   My Ph.D. thesis is now publicly available, you can download it [here](https://hdl.handle.net/11384/133982).
 * 2023-07-17:\
