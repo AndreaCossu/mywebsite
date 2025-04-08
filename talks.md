@@ -2,6 +2,12 @@
 
 ### Selected Talks
 
+* April 2025: Incontra Informatica (in Italian), **L'intelligenza artificiale nel browser: chi progetterà la miglior rete neurale?**
+
+{% file src=".gitbook/assets/IncontraInformatica_DeepLearning.pdf" %}
+Slides
+{% endfile %}
+
 * September 2024: **Alternatives to backpropagation training of deep neural networks,** Summer school "Advances in Artificial Intelligence" by AIxIA association (Villa del Grumello, Lake Como).
 * March 2024: **Continual Learning: Machine Learning on non-stationary data streams,** University of Plymouth
 
