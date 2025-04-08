@@ -1,5 +1,11 @@
 # Teaching
 
+* April 2025: Incontra Informatica (in Italian), **L'intelligenza artificiale nel browser: chi progetterà la miglior rete neurale?**
+
+{% file src=".gitbook/assets/IncontraInformatica_DeepLearning.pdf" %}
+Slides
+{% endfile %}
+
 * Artificial Intelligence 2024/2025, Master Degree in Law, Data and AI (EMILDAI), University of Pisa (3 CFU)
 * Human Language Technologies 2024/2025, Master Degree in Computer Science, University of Pisa (1 CFU)
 * Smart Applications 2024/2025, Master Degree in Computer Science, University of Pisa (9 CFU with Prof. Mazzei)
