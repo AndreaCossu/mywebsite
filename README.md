@@ -19,12 +19,6 @@ I was visiting researcher at KU Leuven (Belgium) and research intern at Google B
 
 I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&D activities.
 
-### CV
-
-{% file src=".gitbook/assets/Curriculum_full (4).pdf" %}
-CV
-{% endfile %}
-
 ### Recent news
 
 * 2025-06-13\
