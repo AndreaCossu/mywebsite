@@ -27,17 +27,19 @@ CV
 
 ### Recent news
 
+* 2025-06-13\
+  I presented our recent paper "Direct Feedback Alignment for Recurrent Neural Networks" at the [5th International Workshop on Computational Aspects of Deep Learning (CADL)](https://sites.google.com/view/cadl2025) within the ISC conference in Hamburg.
 * 2025-04-23/25\
   I am co-organizing the special session "[Streaming Continual Learning: fast adaptation and knowledge consolidation in dynamic environments](https://www.esann.org/special-sessions#session1)" at ESANN 2025 in Bruges.
 * 2025-03-24/27\
   I am co-organizing the [spring school "Learning over Time"](https://sites.google.com/unisi.it/lot-spring-school/) together with colleagues from University of Siena. The school is held at Certosa di Pontignano.
-* 2025-02-12/14\
-  I presented a poster at the 11th International Conference on Guided Self-Organization (GSO-2025) in Tübingen. More ALife coming!
 
 <details>
 
 <summary>Older news</summary>
 
+* 2025-02-12/14\
+  I presented a poster at the 11th International Conference on Guided Self-Organization (GSO-2025) in Tübingen. More ALife coming!
 * 2024-05-27\
   Check out [the slides](teaching.md) of my 3-lecture series on **Artificial Life** in the Collective Machine Intelligence PhD course at University of Pisa.&#x20;
 * 2024-05-25\
