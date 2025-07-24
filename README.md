@@ -21,6 +21,8 @@ I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&
 
 ### Recent news
 
+* 2025-07-17\
+  I presented our paper ["Lifelong Evolution of Swarms"](https://arxiv.org/abs/2503.17763), accepted at the 2025 GECCO conference, in Malaga.
 * 2025-06-13\
   I presented our recent paper "Direct Feedback Alignment for Recurrent Neural Networks" at the [5th International Workshop on Computational Aspects of Deep Learning (CADL)](https://sites.google.com/view/cadl2025) within the ISC conference in Hamburg.
 * 2025-04-23/25\
