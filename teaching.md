@@ -1,5 +1,7 @@
 # Teaching
 
+* Artificial Intelligence Fundamentals 2025/2026, Master Degree in Computer Science, University of Pisa.
+* Smart Applications 2025/2026, Master Degree in Computer Science, University of Pisa (with Prof. Mazzei)
 * April 2025: Incontra Informatica (in Italian), **L'intelligenza artificiale nel browser: chi progetterà la miglior rete neurale?**
 
 {% file src=".gitbook/assets/IncontraInformatica_DeepLearning.pdf" %}
@@ -9,7 +11,7 @@ Slides
 * Artificial Intelligence 2024/2025, Master Degree in Law, Data and AI (EMILDAI), University of Pisa (3 CFU)\
   Link to e-learning page: [https://elearning.jus.unipi.it/enrol/index.php?id=606](https://elearning.jus.unipi.it/enrol/index.php?id=606)
 * Human Language Technologies 2024/2025, Master Degree in Computer Science, University of Pisa (1 CFU)
-* Smart Applications 2024/2025, Master Degree in Computer Science, University of Pisa (9 CFU with Prof. Mazzei)
+* Smart Applications 2024/2025, Master Degree in Computer Science, University of Pisa (with Prof. Mazzei)
 * PhD course "Collective Machine Intelligence: Beyond an Agent-Centric View of AI", Computer Science Department, University of Pisa, 2024. Artificial Life module (6 hours).
 
 {% file src=".gitbook/assets/alife (1).pdf" %}
