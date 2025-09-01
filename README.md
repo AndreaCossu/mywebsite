@@ -21,19 +21,23 @@ I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&
 
 ### Recent news
 
+* 2025-09-02\
+  I am giving a talk on Continual Pre-Training at the Global Software Technology Summit in Florence. Sponsored by Huawei.
 * 2025-07-17\
   I presented our paper ["Lifelong Evolution of Swarms"](https://arxiv.org/abs/2503.17763), accepted at the 2025 GECCO conference, in Malaga.
 * 2025-06-13\
   I presented our recent paper "Direct Feedback Alignment for Recurrent Neural Networks" at the [5th International Workshop on Computational Aspects of Deep Learning (CADL)](https://sites.google.com/view/cadl2025) within the ISC conference in Hamburg.
 * 2025-04-23/25\
   I am co-organizing the special session "[Streaming Continual Learning: fast adaptation and knowledge consolidation in dynamic environments](https://www.esann.org/special-sessions#session1)" at ESANN 2025 in Bruges.
-* 2025-03-24/27\
-  I am co-organizing the [spring school "Learning over Time"](https://sites.google.com/unisi.it/lot-spring-school/) together with colleagues from University of Siena. The school is held at Certosa di Pontignano.
+
+
 
 <details>
 
 <summary>Older news</summary>
 
+* 2025-03-24/27\
+  I am co-organizing the [spring school "Learning over Time"](https://sites.google.com/unisi.it/lot-spring-school/) together with colleagues from University of Siena. The school is held at Certosa di Pontignano.
 * 2025-02-12/14\
   I presented a poster at the 11th International Conference on Guided Self-Organization (GSO-2025) in Tübingen. More ALife coming!
 * 2024-05-27\
