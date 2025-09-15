@@ -1,6 +1,6 @@
 # Ciao!
 
-![Well, that's me!](.gitbook/assets/me-pontediavolo_square_small.jpg)
+<figure><img src=".gitbook/assets/me.png" alt="" width="110"><figcaption></figcaption></figure>
 
 I am an assistant professor (aka RTD-A in Italy) at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english).&#x20;
 
