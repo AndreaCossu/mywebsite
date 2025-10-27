@@ -21,6 +21,8 @@ I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&
 
 ### Recent news
 
+* 2025-10-16\
+  I received an honorable mention in the "Artificial intelligence" category at the Prize for Young Researchers 2025, promoted by Società 2003. More info [here](https://www.gruppo2003.org/node/131).
 * 2025-09-02\
   I am giving a talk on Continual Pre-Training at the Global Software Technology Summit in Florence. Sponsored by Huawei.
 * 2025-07-17\
