@@ -1,7 +1,6 @@
 # Teaching
 
 * Artificial Intelligence Fundamentals 2025/2026, Master Degree in Computer Science, University of Pisa.
-  * Slides [here](https://drive.google.com/drive/folders/1WVCpy85aYyS8GFeb3NzVtckYXUe7aitt?usp=sharing)
 * Smart Applications 2025/2026, Master Degree in Computer Science, University of Pisa (with Prof. Mazzei)
 * April 2025: Incontra Informatica (in Italian), **L'intelligenza artificiale nel browser: chi progetterà la miglior rete neurale?**
 
