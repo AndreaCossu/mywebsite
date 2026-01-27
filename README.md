@@ -23,7 +23,7 @@ I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&
 
 * 2026-01-26\
   Two new papers, and two big ones, on learning (also continually) physical systems: congrats to Alessandro Trenta for his amazing work, and for the well-deserved TMLR and ICLR 2026 acceptance within a few days. \
-  Suggestion: read the [TMLR ](https://openreview.net/forum?id=IbBCDDeDF7)one first (where you will also find continual learning), and then enjoy the ICLR.&#x20;
+  Suggestion: read the [TMLR ](https://openreview.net/forum?id=IbBCDDeDF7)one first (where you will also find continual learning), and then enjoy the [ICLR](https://openreview.net/forum?id=ER7zDJXtRI).&#x20;
 * 2026-01-21\
   I am a co-organizer for the "Streaming Continual Learning" bridge at AAAI 2026. See you in Singapore!
 * 2025-10-16\
