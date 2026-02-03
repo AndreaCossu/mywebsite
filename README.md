@@ -1,6 +1,6 @@
 # Ciao!
 
-<figure><img src=".gitbook/assets/me.png" alt="" width="110"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/me_pontediavolo_white.jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
 I am an assistant professor (aka RTD-A in Italy) at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english).&#x20;
 
@@ -21,20 +21,22 @@ I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&
 
 ### Recent news
 
+* 2026-02-03\
+  Our paper "_A Practical Guide to Streaming Continual Learning_" has been accepted to Neurocomputing!
 * 2026-01-26\
   Two new papers, and two big ones, on learning (also continually) physical systems: congrats to Alessandro Trenta for his amazing work, and for the well-deserved TMLR and ICLR 2026 acceptance within a few days. \
   Suggestion: read the [TMLR ](https://openreview.net/forum?id=IbBCDDeDF7)one first (where you will also find continual learning), and then enjoy the [ICLR](https://openreview.net/forum?id=ER7zDJXtRI).&#x20;
 * 2026-01-21\
   I am a co-organizer for the "Streaming Continual Learning" bridge at AAAI 2026. See you in Singapore!
-* 2025-10-16\
-  I received an honorable mention in the "Artificial intelligence" category at the Prize for Young Researchers 2025, promoted by Società 2003. More info [here](https://www.gruppo2003.org/node/131).
-* 2025-09-02\
-  I am giving a talk on Continual Pre-Training at the Global Software Technology Summit in Florence. Sponsored by Huawei.
 
 <details>
 
 <summary>Older news</summary>
 
+* 2025-10-16\
+  I received an honorable mention in the "Artificial intelligence" category at the Prize for Young Researchers 2025, promoted by Società 2003. More info [here](https://www.gruppo2003.org/node/131).
+* 2025-09-02\
+  I am giving a talk on Continual Pre-Training at the Global Software Technology Summit in Florence. Sponsored by Huawei.
 * 2025-07-17\
   I presented our paper ["Lifelong Evolution of Swarms"](https://arxiv.org/abs/2503.17763), accepted at the 2025 GECCO conference, in Malaga.
 * 2025-06-13\
