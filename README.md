@@ -22,7 +22,7 @@ I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&
 ### Recent news
 
 * 2026-02-03\
-  Our paper "_A Practical Guide to Streaming Continual Learning_" has been accepted to Neurocomputing!
+  Our paper "[_A Practical Guide to Streaming Continual Learning_](https://www.sciencedirect.com/science/article/abs/pii/S0925231226003486)" has been accepted to Neurocomputing!
 * 2026-01-26\
   Two new papers, and two big ones, on learning (also continually) physical systems: congrats to Alessandro Trenta for his amazing work, and for the well-deserved TMLR and ICLR 2026 acceptance within a few days. \
   Suggestion: read the [TMLR ](https://openreview.net/forum?id=IbBCDDeDF7)one first (where you will also find continual learning), and then enjoy the [ICLR](https://openreview.net/forum?id=ER7zDJXtRI).&#x20;
