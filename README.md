@@ -22,18 +22,20 @@ I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&
 
 ### Recent news
 
+* 2026-03-23\
+  A new GECCO paper just got accepted: "Continual Evolution Strategies in Control Tasks", together with IT University of Copenhagen.&#x20;
 * 2026-02-03\
   Our paper "[_A Practical Guide to Streaming Continual Learning_](https://www.sciencedirect.com/science/article/abs/pii/S0925231226003486)" has been accepted to Neurocomputing!
 * 2026-01-26\
   Two new papers, and two big ones, on learning (also continually) physical systems: congrats to Alessandro Trenta for his amazing work, and for the well-deserved TMLR and ICLR 2026 acceptance within a few days. \
   Suggestion: read the [TMLR ](https://openreview.net/forum?id=IbBCDDeDF7)one first (where you will also find continual learning), and then enjoy the [ICLR](https://openreview.net/forum?id=ER7zDJXtRI).&#x20;
-* 2026-01-21\
-  I am a co-organizer for the "Streaming Continual Learning" bridge at AAAI 2026. See you in Singapore!
 
 <details>
 
 <summary>Older news</summary>
 
+* 2026-01-21\
+  I am a co-organizer for the "Streaming Continual Learning" bridge at AAAI 2026. See you in Singapore!
 * 2025-10-16\
   I received an honorable mention in the "Artificial intelligence" category at the Prize for Young Researchers 2025, promoted by Società 2003. More info [here](https://www.gruppo2003.org/node/131).
 * 2025-09-02\
