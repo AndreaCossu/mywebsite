@@ -4,7 +4,8 @@
 
 I am an assistant professor (aka RTD-A in Italy) at the [Computer Science Department](https://di.unipi.it/en/)  of the [University of Pisa](https://www.unipi.it/index.php/english).&#x20;
 
-My research focuses on **Continual Learning** and Deep Learnin&#x67;**.** I am interested in all kinds of learning environments where data changes over time. I I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications.
+My research focuses on **Continual Learning** and Deep Learnin&#x67;**.** I am interested in all kinds of learning environments where data changes over time. I I have started working on Continual Learning by studying the behavior of Recurrent Neural Networks models in sequential data processing applications. \
+More recently, I am interested in the connections between **Evolutionary Computation** and (continual) learning to discover robust agents for open-ended environments.
 
 I am a member of the [**Pervasive AI Lab**](http://pai.di.unipi.it/) (University of Pisa and CNR) and of the [Computational Intelligence and Machine Learning (CIML)](https://ciml.di.unipi.it/) group at (University of Pisa).\
 \
