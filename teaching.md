@@ -2,14 +2,8 @@
 
 * Artificial Intelligence Fundamentals 2025/2026, Master Degree in Computer Science, University of Pisa.
 * Smart Applications 2025/2026, Master Degree in Computer Science, University of Pisa (with Prof. Mazzei)
-* April 2025: Incontra Informatica (in Italian), **L'intelligenza artificiale nel browser: chi progetterà la miglior rete neurale?**
-
-{% file src=".gitbook/assets/IncontraInformatica_DeepLearning.pdf" %}
-Slides
-{% endfile %}
-
-* Artificial Intelligence 2024/2025, Master Degree in Law, Data and AI (EMILDAI), University of Pisa (3 CFU)\
-  Link to e-learning page: [https://elearning.jus.unipi.it/enrol/index.php?id=606](https://elearning.jus.unipi.it/enrol/index.php?id=606)
+* Teacher: Deep Learning and AI, Master in Big Data, University of Pisa (with Prof. Podda).
+* Artificial Intelligence 2024/2025, Master Degree in Law, Data and AI (EMILDAI), University of Pisa (3 CFU)
 * Human Language Technologies 2024/2025, Master Degree in Computer Science, University of Pisa (1 CFU)
 * Smart Applications 2024/2025, Master Degree in Computer Science, University of Pisa (with Prof. Mazzei)
 * PhD course "Collective Machine Intelligence: Beyond an Agent-Centric View of AI", Computer Science Department, University of Pisa, 2024. Artificial Life module (6 hours).
@@ -18,11 +12,9 @@ Slides
 Slides (PDF) Collective Machine Intelligence course
 {% endfile %}
 
-* Lab Teacher: _Deep Learning_, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2023
-* Lab Teacher: _Deep Learning_, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2022
 * Teaching assistant: [_Continual Learning: On Machines that can Learn Continually_](https://course.continualai.org/), University of Pisa, 2021
 * Teacher: _Evaluation of Continual Learning algorithms_ nanolecture, [Neuromatch Academy](https://academy.neuromatch.io/) school of Deep Learning, 2021
-* Lab Teacher: _Deep Learning_, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2021
+* Lab Teacher: _Deep Learning_, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2021-2025
 * Teacher: _Machine Learning_, Data Science course, [tree](https://tree.it/corso-data-science-machine-learning/), 2020
 * Teaching assistant: _Computer Programming Laboratory I_, University of Pisa, 2020/21
 * Teaching assistant: _Smart Applications_, University of Pisa, 2019/20
