@@ -22,6 +22,8 @@ I am partner of [KlinK s.r.l.](https://www.klink.it/), where I supervise the R\&
 
 ### Recent news
 
+* 2026-07-07\
+  I have been selected for the "CoLLAs Early-Career Spotlight Program". I will deliver a talk at CoLLAs 2026 (Bucharest) on continual learning for physical systems, streaming continual learning and lifelong neuroevolution.&#x20;
 * 2026-03-23\
   A new GECCO paper just got accepted: "Continual Evolution Strategies in Control Tasks", together with IT University of Copenhagen.&#x20;
 * 2026-02-03\
